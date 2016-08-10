@@ -94,3 +94,4 @@ You can specify an arbitrary database name, it is only used to derive the test d
 ### Travis CI
 The extension skeleton also comes with a `.travis.yml` file, which executes your tests (including a PHP syntax check) on every merge, by using the [Travis CI](http://docs.travis-ci.com/user/languages/php/) service.
 For that, your git repository must be hosted on [Github](http://github.com).
+..
